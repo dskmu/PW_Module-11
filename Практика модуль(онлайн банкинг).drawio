@@ -1,0 +1,271 @@
+<mxfile host="app.diagrams.net">
+  <diagram id="SPgNMLwcPrub-MXnh-wL" name="Страница-1">
+    <mxGraphModel dx="2498" dy="3349" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Dos4GhqH_5Z-DLOG3rV4-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#595959);strokeColor=light-dark(#000000,#000000);" value="" vertex="1">
+          <mxGeometry height="110" width="650" x="-300" y="-10" as="geometry" />
+        </mxCell>
+        <mxCell id="Dos4GhqH_5Z-DLOG3rV4-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#595959);strokeColor=light-dark(#000000,#000000);" value="" vertex="1">
+          <mxGeometry height="110" width="230" x="380" y="-10" as="geometry" />
+        </mxCell>
+        <mxCell id="Dos4GhqH_5Z-DLOG3rV4-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#595959);strokeColor=light-dark(#000000,#000000);" value="" vertex="1">
+          <mxGeometry height="110" width="530" x="820" y="-10" as="geometry" />
+        </mxCell>
+        <mxCell id="Dos4GhqH_5Z-DLOG3rV4-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#595959);strokeColor=light-dark(#000000,#000000);" value="" vertex="1">
+          <mxGeometry height="250" width="1020" x="30" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="Dos4GhqH_5Z-DLOG3rV4-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#595959);strokeColor=light-dark(#000000,#000000);" value="" vertex="1">
+          <mxGeometry height="110" width="230" x="-380" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="Dos4GhqH_5Z-DLOG3rV4-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#595959);strokeColor=light-dark(#000000,#000000);" value="" vertex="1">
+          <mxGeometry height="290" width="920" x="-480" y="470" as="geometry" />
+        </mxCell>
+        <mxCell id="Dos4GhqH_5Z-DLOG3rV4-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#595959);strokeColor=light-dark(#000000,#000000);" value="" vertex="1">
+          <mxGeometry height="170" width="770" x="510" y="470" as="geometry" />
+        </mxCell>
+        <mxCell id="Dos4GhqH_5Z-DLOG3rV4-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#595959);strokeColor=light-dark(#000000,#000000);" value="" vertex="1">
+          <mxGeometry height="140" width="280" x="1120" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="Dos4GhqH_5Z-DLOG3rV4-28" edge="1" parent="1" source="Dos4GhqH_5Z-DLOG3rV4-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;" target="Dos4GhqH_5Z-DLOG3rV4-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Dos4GhqH_5Z-DLOG3rV4-29" edge="1" parent="1" source="Dos4GhqH_5Z-DLOG3rV4-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;curved=1;" target="Dos4GhqH_5Z-DLOG3rV4-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Dos4GhqH_5Z-DLOG3rV4-30" edge="1" parent="1" source="Dos4GhqH_5Z-DLOG3rV4-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;" target="Dos4GhqH_5Z-DLOG3rV4-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Dos4GhqH_5Z-DLOG3rV4-31" edge="1" parent="1" source="Dos4GhqH_5Z-DLOG3rV4-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;" target="Dos4GhqH_5Z-DLOG3rV4-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Dos4GhqH_5Z-DLOG3rV4-9" parent="1" style="html=1;whiteSpace=wrap;" value="API Gateway" vertex="1">
+          <mxGeometry height="50" width="110" x="300" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="Dos4GhqH_5Z-DLOG3rV4-10" parent="1" style="html=1;whiteSpace=wrap;" value="Модуль поддержки&lt;div&gt;пользователей&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="110" x="90" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="Dos4GhqH_5Z-DLOG3rV4-11" parent="1" style="html=1;whiteSpace=wrap;" value="Модуль переводов" vertex="1">
+          <mxGeometry height="50" width="110" x="270" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="Dos4GhqH_5Z-DLOG3rV4-12" parent="1" style="html=1;whiteSpace=wrap;" value="Модуль управления картами" vertex="1">
+          <mxGeometry height="50" width="110" x="660" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="Dos4GhqH_5Z-DLOG3rV4-13" parent="1" style="html=1;whiteSpace=wrap;" value="Модуль управления счетами" vertex="1">
+          <mxGeometry height="50" width="110" x="870" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="Dos4GhqH_5Z-DLOG3rV4-14" parent="1" style="html=1;whiteSpace=wrap;" value="Analytics Service&lt;div&gt;отчёты / статистика&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="130" x="430" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="Dos4GhqH_5Z-DLOG3rV4-15" parent="1" style="html=1;whiteSpace=wrap;" value="Monitoring Service&lt;div&gt;доступность / метрики&lt;/div&gt;" vertex="1">
+          <mxGeometry height="70" width="160" x="-70" y="5" as="geometry" />
+        </mxCell>
+        <mxCell id="Dos4GhqH_5Z-DLOG3rV4-16" parent="1" style="html=1;whiteSpace=wrap;" value="Notification Service" vertex="1">
+          <mxGeometry height="60" width="160" x="-345" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="Dos4GhqH_5Z-DLOG3rV4-17" parent="1" style="html=1;whiteSpace=wrap;" value="Платежный шлюз&lt;div&gt;Visa / MasterCard&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="160" x="-420" y="510" as="geometry" />
+        </mxCell>
+        <mxCell id="Dos4GhqH_5Z-DLOG3rV4-18" parent="1" style="html=1;whiteSpace=wrap;" value="Внешние банки&lt;div&gt;SWIFT / IBAN&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="160" x="-413" y="660" as="geometry" />
+        </mxCell>
+        <mxCell id="Dos4GhqH_5Z-DLOG3rV4-19" parent="1" style="html=1;whiteSpace=wrap;" value="SMS провайдер" vertex="1">
+          <mxGeometry height="60" width="160" x="30" y="520" as="geometry" />
+        </mxCell>
+        <mxCell id="Dos4GhqH_5Z-DLOG3rV4-20" parent="1" style="html=1;whiteSpace=wrap;" value="Email провайдер" vertex="1">
+          <mxGeometry height="60" width="160" x="230" y="525" as="geometry" />
+        </mxCell>
+        <mxCell id="Dos4GhqH_5Z-DLOG3rV4-21" parent="1" style="html=1;whiteSpace=wrap;" value="Auth Service&lt;div&gt;2FA / JWT&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="160" x="1180" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="Dos4GhqH_5Z-DLOG3rV4-22" parent="1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" value="" vertex="1">
+          <mxGeometry height="140" width="180" x="560" y="485" as="geometry" />
+        </mxCell>
+        <mxCell id="Dos4GhqH_5Z-DLOG3rV4-23" parent="1" style="html=1;whiteSpace=wrap;" value="Мобильное приложение" vertex="1">
+          <mxGeometry height="60" width="160" x="870" y="15" as="geometry" />
+        </mxCell>
+        <mxCell id="Dos4GhqH_5Z-DLOG3rV4-24" parent="1" style="html=1;whiteSpace=wrap;" value="Веб приложение" vertex="1">
+          <mxGeometry height="60" width="160" x="1130" y="15" as="geometry" />
+        </mxCell>
+        <mxCell id="Dos4GhqH_5Z-DLOG3rV4-25" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Основная БД&lt;div&gt;Клиенты / счета / транзакции / карты&lt;/div&gt;" vertex="1">
+          <mxGeometry height="90" width="150" x="575" y="520" as="geometry" />
+        </mxCell>
+        <mxCell id="Dos4GhqH_5Z-DLOG3rV4-26" edge="1" parent="1" source="Dos4GhqH_5Z-DLOG3rV4-23" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="Dos4GhqH_5Z-DLOG3rV4-9" value="REST API / GraphQL">
+          <mxGeometry relative="1" width="80" as="geometry">
+            <Array as="points">
+              <mxPoint x="640" y="150" />
+              <mxPoint x="430" y="150" />
+            </Array>
+            <mxPoint x="830" y="280" as="sourcePoint" />
+            <mxPoint x="910" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Dos4GhqH_5Z-DLOG3rV4-27" edge="1" parent="1" source="Dos4GhqH_5Z-DLOG3rV4-24" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="Dos4GhqH_5Z-DLOG3rV4-9" value="REST API / GraphQL">
+          <mxGeometry relative="1" width="80" as="geometry">
+            <Array as="points">
+              <mxPoint x="780" y="170" />
+            </Array>
+            <mxPoint x="1345" y="140" as="sourcePoint" />
+            <mxPoint x="830" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Dos4GhqH_5Z-DLOG3rV4-32" edge="1" parent="1" source="Dos4GhqH_5Z-DLOG3rV4-9" style="html=1;verticalAlign=bottom;endArrow=block;curved=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" target="Dos4GhqH_5Z-DLOG3rV4-21" value="JWT Token">
+          <mxGeometry relative="1" width="80" x="0.0561" y="-30" as="geometry">
+            <mxPoint as="offset" />
+            <Array as="points">
+              <mxPoint x="860" y="180" />
+            </Array>
+            <mxPoint x="770" y="400" as="sourcePoint" />
+            <mxPoint x="850" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Dos4GhqH_5Z-DLOG3rV4-33" edge="1" parent="1" source="Dos4GhqH_5Z-DLOG3rV4-12" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" target="Dos4GhqH_5Z-DLOG3rV4-22" value="SQL">
+          <mxGeometry relative="1" width="80" as="geometry">
+            <mxPoint x="680" y="460" as="sourcePoint" />
+            <mxPoint x="760" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Dos4GhqH_5Z-DLOG3rV4-34" edge="1" parent="1" source="Dos4GhqH_5Z-DLOG3rV4-13" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=42.5;entryPerimeter=0;" target="Dos4GhqH_5Z-DLOG3rV4-22" value="SQL">
+          <mxGeometry relative="1" width="80" as="geometry">
+            <mxPoint x="848" y="410" as="sourcePoint" />
+            <mxPoint x="810" y="545" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Dos4GhqH_5Z-DLOG3rV4-35" edge="1" parent="1" source="Dos4GhqH_5Z-DLOG3rV4-11" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.145;entryY=0;entryDx=0;entryDy=4.35;entryPerimeter=0;" target="Dos4GhqH_5Z-DLOG3rV4-22" value="SQL">
+          <mxGeometry relative="1" width="80" as="geometry">
+            <mxPoint x="520" y="470" as="sourcePoint" />
+            <mxPoint x="600" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Dos4GhqH_5Z-DLOG3rV4-36" edge="1" parent="1" source="Dos4GhqH_5Z-DLOG3rV4-10" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=42.5;entryPerimeter=0;" target="Dos4GhqH_5Z-DLOG3rV4-22" value="SQL">
+          <mxGeometry relative="1" width="80" as="geometry">
+            <mxPoint x="330" y="500" as="sourcePoint" />
+            <mxPoint x="410" y="500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Dos4GhqH_5Z-DLOG3rV4-37" edge="1" parent="1" source="Dos4GhqH_5Z-DLOG3rV4-21" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" target="Dos4GhqH_5Z-DLOG3rV4-22" value="SQL">
+          <mxGeometry relative="1" width="80" as="geometry">
+            <mxPoint x="880" y="510" as="sourcePoint" />
+            <mxPoint x="960" y="510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Dos4GhqH_5Z-DLOG3rV4-38" edge="1" parent="1" source="Dos4GhqH_5Z-DLOG3rV4-14" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" target="Dos4GhqH_5Z-DLOG3rV4-22" value="SQL">
+          <mxGeometry relative="1" width="80" as="geometry">
+            <Array as="points">
+              <mxPoint y="140" />
+              <mxPoint y="430" />
+              <mxPoint x="300" y="430" />
+              <mxPoint x="463" y="450" />
+            </Array>
+            <mxPoint x="350" y="340" as="sourcePoint" />
+            <mxPoint x="430" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Dos4GhqH_5Z-DLOG3rV4-40" edge="1" parent="1" source="Dos4GhqH_5Z-DLOG3rV4-15" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" target="Dos4GhqH_5Z-DLOG3rV4-22" value="healthcheck">
+          <mxGeometry relative="1" width="160" as="geometry">
+            <Array as="points">
+              <mxPoint x="-50" y="420" />
+              <mxPoint y="450" />
+              <mxPoint x="110" y="450" />
+              <mxPoint x="270" y="450" />
+              <mxPoint x="450" y="460" />
+            </Array>
+            <mxPoint x="70" y="410" as="sourcePoint" />
+            <mxPoint x="230" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Dos4GhqH_5Z-DLOG3rV4-41" edge="1" parent="1" source="Dos4GhqH_5Z-DLOG3rV4-9" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;" target="Dos4GhqH_5Z-DLOG3rV4-16" value="триггер">
+          <mxGeometry relative="1" width="80" x="0.6904" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="-30" y="370" as="sourcePoint" />
+            <mxPoint x="50" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Dos4GhqH_5Z-DLOG3rV4-42" edge="1" parent="1" source="Dos4GhqH_5Z-DLOG3rV4-16" style="html=1;verticalAlign=bottom;endArrow=block;curved=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="Dos4GhqH_5Z-DLOG3rV4-19" value="SMS API">
+          <mxGeometry relative="1" width="80" as="geometry">
+            <Array as="points">
+              <mxPoint x="-110" y="530" />
+            </Array>
+            <mxPoint x="10" y="480" as="sourcePoint" />
+            <mxPoint x="90" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Dos4GhqH_5Z-DLOG3rV4-43" edge="1" parent="1" source="Dos4GhqH_5Z-DLOG3rV4-16" style="html=1;verticalAlign=bottom;endArrow=block;curved=1;rounded=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="Dos4GhqH_5Z-DLOG3rV4-20" value="SMTP">
+          <mxGeometry relative="1" width="80" x="-0.0004" as="geometry">
+            <mxPoint as="offset" />
+            <Array as="points">
+              <mxPoint x="-90" y="490" />
+            </Array>
+            <mxPoint x="-90" y="380" as="sourcePoint" />
+            <mxPoint x="285" y="550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Dos4GhqH_5Z-DLOG3rV4-44" edge="1" parent="1" source="Dos4GhqH_5Z-DLOG3rV4-11" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="Dos4GhqH_5Z-DLOG3rV4-17" value="Payment API">
+          <mxGeometry relative="1" width="80" x="0.8023" y="-2" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="-20" y="540" as="sourcePoint" />
+            <mxPoint x="60" y="540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Dos4GhqH_5Z-DLOG3rV4-45" edge="1" parent="1" source="Dos4GhqH_5Z-DLOG3rV4-17" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="Dos4GhqH_5Z-DLOG3rV4-18" value="SWIFT / IBAN">
+          <mxGeometry relative="1" width="80" as="geometry">
+            <mxPoint x="-300" y="590" as="sourcePoint" />
+            <mxPoint x="-220" y="590" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Dos4GhqH_5Z-DLOG3rV4-46" edge="1" parent="1" source="Dos4GhqH_5Z-DLOG3rV4-15" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" target="Dos4GhqH_5Z-DLOG3rV4-17" value="healthcheck">
+          <mxGeometry relative="1" width="160" as="geometry">
+            <Array as="points">
+              <mxPoint x="-380" y="60" />
+              <mxPoint x="-440" y="280" />
+            </Array>
+            <mxPoint x="-280" y="360" as="sourcePoint" />
+            <mxPoint x="-120" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Dos4GhqH_5Z-DLOG3rV4-47" edge="1" parent="1" source="Dos4GhqH_5Z-DLOG3rV4-15" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" target="Dos4GhqH_5Z-DLOG3rV4-9" value="healthcheck">
+          <mxGeometry relative="1" width="160" as="geometry">
+            <mxPoint x="70" y="320" as="sourcePoint" />
+            <mxPoint x="230" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Dos4GhqH_5Z-DLOG3rV4-48" edge="1" parent="1" source="Dos4GhqH_5Z-DLOG3rV4-15" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="Dos4GhqH_5Z-DLOG3rV4-21" value="healthcheck">
+          <mxGeometry relative="1" width="160" x="0.7792" y="-1" as="geometry">
+            <mxPoint y="1" as="offset" />
+            <Array as="points">
+              <mxPoint x="460" y="110" />
+              <mxPoint x="1180" y="140" />
+            </Array>
+            <mxPoint x="400" y="360" as="sourcePoint" />
+            <mxPoint x="560" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Dos4GhqH_5Z-DLOG3rV4-49" parent="1" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;" value="Внешние системы" vertex="1">
+          <mxGeometry height="50" width="140" x="60" y="710" as="geometry" />
+        </mxCell>
+        <mxCell id="Dos4GhqH_5Z-DLOG3rV4-50" parent="1" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;" value="Система уведомлений" vertex="1">
+          <mxGeometry height="50" width="140" x="-335" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="Dos4GhqH_5Z-DLOG3rV4-51" parent="1" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;" value="Система мониторинга" vertex="1">
+          <mxGeometry height="50" width="140" x="-253" y="-10" as="geometry" />
+        </mxCell>
+        <mxCell id="Dos4GhqH_5Z-DLOG3rV4-52" parent="1" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;" value="Модуль аналитики" vertex="1">
+          <mxGeometry height="50" width="140" x="425" y="-30" as="geometry" />
+        </mxCell>
+        <mxCell id="Dos4GhqH_5Z-DLOG3rV4-53" parent="1" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;" value="Backend" vertex="1">
+          <mxGeometry height="50" width="140" x="890" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="Dos4GhqH_5Z-DLOG3rV4-54" parent="1" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;" value="Frontend" vertex="1">
+          <mxGeometry height="50" width="140" x="1020" y="-20" as="geometry" />
+        </mxCell>
+        <mxCell id="Dos4GhqH_5Z-DLOG3rV4-55" parent="1" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;" value="Система авторизации" vertex="1">
+          <mxGeometry height="50" width="140" x="1220" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="Dos4GhqH_5Z-DLOG3rV4-56" parent="1" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;" value="База данных" vertex="1">
+          <mxGeometry height="50" width="140" x="990" y="470" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
